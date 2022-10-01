@@ -4,4 +4,4 @@ My name is Alejandro and I'm a Full Stack Web Developer working mainly on Full S
 
 I am looking to join some Open Source Typescript projects as a collaborator, I'm open to suggestions!
 
-For more information, please visit my [portfolio site](https://alejandro.solutions) 
+For more information, please visit my [portfolio site!](https://alejandro.solutions) 
